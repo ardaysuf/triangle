@@ -1,4 +1,3 @@
-
 a = int(input("Enter the First Length of Side: "))
 b = int(input("Enter the Second Length of Side: "))
 r = int(input("Enter the Third Length of Run: "))
