@@ -1,2 +1,2 @@
 # triangle
-you can calculate the triangles area and perimeter after enter the lenght of the triangle.
+You can calculate the triangles area and perimeter after enter the lenght of the triangle.
